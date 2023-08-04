@@ -22,4 +22,5 @@ I only looked at two of the tables from this dataset, dailyActivity_merged and s
 - In the dailyActivity_merged table I added a new column titled "Activity_Day" so that we have the full date as well of the day of the week when the data was collected.
 - In the sleepDay_Merged table there were 3 rows of duplicate information that were taken out before analysis.
 
-<img src"Excel_cleaning.PNG>
+![Excel_cleaning](https://github.com/olsonmo93/Bellabeat-Case-Study/assets/126408119/c1090a69-2706-452b-b4ce-ec8368cdb2f1)
+
