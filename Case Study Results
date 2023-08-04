@@ -19,4 +19,6 @@ How could these trends apply to Bellabeat customers?
 This data set does have its limitations. It was collected from 2016-03-12 to 2016-05-12 and had a participant base of 30.
 
 I only looked at two of the tables from this dataset, dailyActivity_merged and sleepDay_Merged.
+- In the dailyActivity_merged table I added a new column titled "Activity_Day" so that we have the full date as well of the day of the week when the data was collected.
+- In the sleepDay_Merged table there were 3 rows of duplicate information that were taken out before analysis.
 
