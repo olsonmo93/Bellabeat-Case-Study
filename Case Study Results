@@ -16,3 +16,7 @@ What are some trends in smart device usage?
 How could these trends apply to Bellabeat customers?
 
 2. Prepare
+This data set does have its limitations. It was collected from 2016-03-12 to 2016-05-12 and had a participant base of 30.
+
+I only looked at two of the tables from this dataset, dailyActivity_merged and sleepDay_Merged.
+
