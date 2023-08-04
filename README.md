@@ -6,3 +6,6 @@ This data was collected between 03.12.2016-05.12.2016. Participants wore fitness
 Check out my Tableau https://public.tableau.com/app/profile/morgan.olson/viz/BellabeatCaseStudy_16910178769870/Sheet4 
 
 During this case study I started by asking the right questions. I then cleaned the data in Excel and prepared the data, afterward processing it in BigQuery by using queries to pull out relevant information. I took time to analyze the information and then visualize and share the results in Tableau. Finally giving a recommendation to stakeholders based on my findings.
+
+
+![Excel_cleaning](https://github.com/olsonmo93/Bellabeat-Case-Study/assets/126408119/c1090a69-2706-452b-b4ce-ec8368cdb2f1)
