@@ -1,26 +1,8 @@
-## Case Study: Bellabeat Analysis
+# Bellabeat-Case-Study
 
-### Author: Morgan Olson
-### Date: 2023-08-04
-### Email: olsonmo93@gmail.com
-### GitHub: https://github.com/olsonmo93
-### LinkedIn: linkedin.com/in/morgan-olson93
+This data was collected between 03.12.2016-05.12.2016. Participants wore fitness trackers that collected data regarding their steps, activity level minutes, calories, steps, distance, and more.
 
+# BigQuery and Tableau
+Check out my Tableau https://public.tableau.com/app/profile/morgan.olson/viz/BellabeatCaseStudy_16910178769870/Sheet4 
 
-**Introduction:** 
-
-In this case study, I am analyzing data from Bellabeat, a smart device company based in San Francisco. I will look at the data to answer key business questions and develop actionable insights.
-
-**1. Ask:**
-How can we better market our smart devices based on user trends?
-What are some trends in smart device usage?
-How could these trends apply to Bellabeat customers?
-
-**2. Prepare:**
-This data set does have its limitations. It was collected from 2016-03-12 to 2016-05-12 and had a participant base of 30. I only looked at two of the tables from this dataset, dailyActivity_merged and sleepDay_Merged.
-
-**3. Process:**
-In the dailyActivity_merged table I added a new column titled "Activity_Day" so that we have the full date as well of the day of the week when the data was collected.
-In the sleepDay_Merged table there were 3 rows of duplicate information that were taken out before analysis.
-
-![Excel_cleaning](https://github.com/olsonmo93/Bellabeat-Case-Study/assets/126408119/c1090a69-2706-452b-b4ce-ec8368cdb2f1)
+During this case study I started by asking the right questions. I then cleaned the data in Excel and prepared the data, afterward processing it in BigQuery by using queries to pull out relevant information. I took time to analyze the information and then visualize and share the results in Tableau. Finally giving a recommendation to stakeholders based on my findings.
